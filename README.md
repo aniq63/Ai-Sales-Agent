@@ -59,9 +59,5 @@ key_features = "Cutting-edge technology, Competitive pricing, Excellent customer
 ## Contribution
 Feel free to contribute by submitting pull requests or reporting issues.
 
-## License
-This project is licensed under the MIT License.
-
----
 **Author:** Aniq Ramzan
 
