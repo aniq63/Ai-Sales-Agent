@@ -5,7 +5,7 @@ The **AI Sales Agent** is a virtual assistant designed to automate the role of a
 
 ## Features
 - **Conversational AI**: Engages in natural, human-like conversations.
-- **Product Knowledge**: Equipped with deep knowledge of company products.
+- **Product Knowledge**: Equipped with deep knowledge of company products,in this csv file are use as database of products
 - **Customer Interaction**: Understands customer needs and provides tailored recommendations.
 - **Objection Handling**: Addresses customer concerns effectively.
 - **Secure Transactions**: Generates payment links (Stripe, etc.) upon customer agreement.
