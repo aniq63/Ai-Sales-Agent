@@ -1,0 +1,21 @@
+product_name,description,features,price,category,inventory_status
+Apple iPhone 14 Pro,Flagship smartphone with Super Retina XDR display and advanced camera system.,6.1-inch Super Retina XDR display; A16 Bionic chip; 48MP Pro camera system; 5G capable; 128GB storage,999.0,Smartphones,In Stock
+Samsung Galaxy S23 Ultra,Android phone with 200MP camera and S Pen compatibility.,6.8-inch Dynamic AMOLED; Snapdragon 8 Gen 2; 200MP wide camera; 12GB RAM; 256GB storage,1199.99,Smartphones,In Stock
+Google Pixel 7 Pro,AI-powered smartphone with exceptional computational photography.,6.7-inch QHD+ OLED; Google Tensor G2; 50MP main camera; Magic Eraser feature; 128GB storage,899.0,Smartphones,Out of Stock
+Sony WH-1000XM5,Premium wireless headphones with industry-leading noise cancellation.,Active Noise Cancellation; 30-hour battery life; Wireless Bluetooth 5.2; Touch controls,349.99,Headphones,In Stock
+Bose QuietComfort 45,Comfortable over-ear headphones with noise-rejecting microphones.,Triple-mode noise cancellation; 24-hour battery; Alexa voice control; Quick attention mode,329.0,Headphones,In Stock
+Apple AirPods Pro (2nd Gen),Wireless earbuds with adaptive audio and personalized spatial audio.,H2 chip; Active Noise Cancellation; MagSafe charging; IPX4 water resistance,249.0,Headphones,In Stock
+Apple Watch Ultra,Rugged smartwatch for extreme sports and outdoor adventures.,49mm titanium case; Dual-frequency GPS; Depth gauge; 36-hour battery,799.0,Smartwatches,In Stock
+Samsung Galaxy Watch 5 Pro,Durable smartwatch with advanced health monitoring.,1.4-inch Super AMOLED; Body composition analysis; GPS route tracking; Sapphire crystal glass,449.99,Smartwatches,In Stock
+Garmin Fenix 7X Solar,Multisport GPS watch with solar charging capabilities.,Power Glass solar lens; 28-day battery; TopoActive maps; Ski/resort activities,899.99,Smartwatches,In Stock
+Apple iPad Pro 12.9,Professional tablet with M2 chip and Liquid Retina XDR display.,12.9-inch mini-LED; M2 chip; Face ID; Thunderbolt/USB-C port; 128GB storage,1099.0,Tablets,In Stock
+Samsung Galaxy Tab S8 Ultra,Android tablet with massive 14.6-inch display and S Pen included.,14.6-inch Super AMOLED; Snapdragon 8 Gen 1; 11200mAh battery; 256GB storage,1099.99,Tablets,Out of Stock
+Amazon Fire HD 10,Affordable tablet with Alexa hands-free functionality.,10.1-inch 1080p display; 3GB RAM; 32GB storage; 12-hour battery,149.99,Tablets,In Stock
+Apple MacBook Pro 16-inch,High-performance laptop with M2 Max chip for professionals.,M2 Max chip; 16-inch Liquid Retina XDR display; 32GB RAM; 1TB SSD,2499.0,Laptops,In Stock
+Dell XPS 13 Plus,Ultra-slim laptop with edge-to-edge keyboard and haptic touchpad.,13.4-inch 4K UHD+ display; Intel Core i7-1280P; 16GB RAM; 512GB SSD,1699.0,Laptops,In Stock
+Microsoft Surface Laptop 5,Windows laptop with PixelSense touchscreen and premium design.,13.5-inch touchscreen; Intel Core i5; 8GB RAM; 512GB SSD; Alcantara keyboard deck,1299.0,Laptops,In Stock
+Sony PlayStation 5,Next-gen gaming console with 4K/120fps support.,Custom AMD Zen 2 CPU; 16GB GDDR6; 825GB SSD; 4K Blu-ray drive,499.99,Gaming Consoles,In Stock
+Xbox Series X,Powerful gaming console with Game Pass compatibility.,12 TFLOPS GPU; 1TB SSD; 4K gaming; Dolby Atmos support,499.99,Gaming Consoles,Out of Stock
+Nintendo Switch OLED,Gaming console with handheld and docked play modes.,7-inch OLED screen; 64GB storage; Enhanced audio; LAN port dock,349.99,Gaming Consoles,In Stock
+DJI Mini 3 Pro,Compact drone with 4K HDR video and obstacle sensing.,4K/60fps video; 48MP photos; 34-min flight time; Under 249g weight,759.0,Drones,In Stock
+GoPro HERO11 Black,Action camera with 5.3K video and HyperSmooth stabilization.,27MP photos; 10-bit color; Waterproof to 33ft; Front LCD screen,399.99,Action Cameras,In Stock
