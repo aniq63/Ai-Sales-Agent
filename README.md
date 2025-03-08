@@ -15,7 +15,7 @@ Live Video Demo :
 - **Dynamic Conversational Flow**: 7-step sales process implementation
 - **Real-time Document Retrieval**: Semantic search through uploaded data
 - **Customizable Agent Identity**: Configure agent name and company details
-- **Secure Payment Integration**: Automatic payment link generation
+- **Secure Payment Integration**: Automatic payment link generation via Stripe e.t.c
 
 ## Technologies Used 🛠️
 
