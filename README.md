@@ -1,7 +1,7 @@
 # AI Sales Agent 🤖💼
 
 ## Overview
-The **AI Sales Agent** is a virtual assistant designed to automate the role of a salesperson by efficiently selling a company's products. It leverages the **Groq LLM model (mixtral-8x7b-32768)** to interact with customers professionally and politely, ensuring a seamless sales experience. The agent is customized with the company's branding, product details, and unique persona to enhance user engagement.
+The **AI Sales Agent** is a virtual assistant designed to automate the role of a salesperson by efficiently selling a company's products. It leverages the **Groq LLM model llama-3.1-8b-instant** to interact with customers professionally and politely, ensuring a seamless sales experience. The agent is customized with the company's branding, product details, and unique persona to enhance user engagement.
 
 ## Features
 - **Conversational AI**: Engages in natural, human-like conversations.
