@@ -3,6 +3,11 @@
 ## Overview
 The **AI Sales Agent** is a virtual assistant designed to automate the role of a salesperson by efficiently selling a company's products. It leverages the **Groq LLM model llama-3.1-8b-instant** to interact with customers professionally and politely, ensuring a seamless sales experience. The agent is customized with the company's branding, product details, and unique persona to enhance user engagement.
 
+## 🌐 Live Demo  
+Access the hosted version: https://huggingface.co/spaces/Aniq-63/Ai_Sales_Agent
+
+Live Video Demo : 
+
 ## Features
 - **Conversational AI**: Engages in natural, human-like conversations.
 - **Product Knowledge**: Equipped with deep knowledge of company products,in this csv file are use as database of products
