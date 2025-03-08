@@ -25,6 +25,8 @@ Live Video Demo :
 - **Hugging Face**: Sentence Transformers for embeddings
 - **In-Memory Vector Store**: Real-time document retrieval
 
+## Screenshots
+
 ## Installation ⚙️
 
 1. Clone repository:
